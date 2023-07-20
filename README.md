@@ -43,18 +43,12 @@ The basic procedure for analyzing crimes against women in India from 2001 to 201
 **Repository Contents**
 
 dataset: This directory contains the dataset used for analysis. It includes the necessary files in a structured format.
+
 notebooks: This directory contains Jupyter notebooks documenting the data preprocessing, exploratory analysis, and statistical analysis performed on the dataset.
 visualizations: This directory contains visual representations of the analysis results, including charts, graphs, and maps.
-README.md: This file provides an overview of the project, its purpose, the dataset used, and the analysis procedure.
-Usage
-To use this project and replicate the analysis:
 
-Clone or download the repository to your local machine.
-Ensure you have the required dependencies and libraries installed (specified in the notebooks or a separate requirements.txt file).
-Access the Jupyter notebooks in the notebooks directory and follow the step-by-step instructions to preprocess the data and perform the analysis.
-Use the generated visualizations in the visualizations directory to gain insights and interpret the findings.
-Customize and modify the code or analysis as per your requirements, and explore further possibilities for enhancing the project.
+README.md: This file provides an overview of the project, its purpose, the dataset used, and the analysis procedure.
 
 **Acknowledgments**
 
-We would like to express our gratitude to the Government of India for providing the open access data on crimes against women. The analysis and findings presented in this project are based on this valuable dataset, which contributes to our understanding of this critical societal issue.
+I would like to express our gratitude to the Government of India for providing the open access data on crimes against women. The analysis and findings presented in this project are based on this valuable dataset, which contributes to our understanding of this critical societal issue.
