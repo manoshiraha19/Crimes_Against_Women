@@ -1,18 +1,18 @@
-**Analyzing Crimes Against Women in India (2001-2014)**
+# Analyzing Crimes Against Women in India (2001-2014)
 ![WhatsApp Image 2023-05-05 at 01 06 57](https://github.com/manoshiraha19/Crimes_Against_Women/assets/114347106/48b5d50c-a3c7-4b34-a7c4-943403ba0756)
 
 
-**Overview**
+## Overview
 
 This project aims to analyze crimes against women in India from the years 2001 to 2014. The dataset used for this analysis is obtained from open access data provided by the Government of India. By examining this dataset, we can gain insights into the trends, patterns, and severity of crimes committed against women during this period. The analysis of such data is crucial in understanding the issues surrounding women's safety and can potentially contribute to the development of effective strategies for crime prevention and women empowerment.
 
-**Dataset**
+## Dataset
 
 The dataset used in this project is sourced from open access data available on the Government of India's websites. It consists of comprehensive information about crimes committed against women in India between 2001 and 2014. The dataset includes various attributes such as the type of crime, location, age group of victims, nature of the offense, and other relevant details.
 
 Please note that the dataset used in this project is publicly available and has been used for research and analytical purposes only. It is recommended to refer to the official sources for the most up-to-date and accurate information on crimes against women in India.
 
-**Need for Analysis**
+## Need for Analysis
 
 The analysis of crimes against women in India from 2001 to 2014 serves several important purposes:
 
@@ -22,7 +22,7 @@ The analysis of crimes against women in India from 2001 to 2014 serves several i
 
 3.Informing policy and interventions: The findings from this analysis can contribute to evidence-based policy-making and the development of targeted interventions. Understanding the nature and extent of crimes against women is essential for formulating effective strategies to prevent such crimes, improve safety measures, and promote gender equality.
 
-**Procedure**
+## Procedure
 
 The basic procedure for analyzing crimes against women in India from 2001 to 2014 involves the following steps:
 
@@ -40,7 +40,7 @@ The basic procedure for analyzing crimes against women in India from 2001 to 201
 
 7.Documentation and sharing: Document the analysis process, including the code used, data preprocessing steps, and analytical techniques applied. Share the findings, visualizations, and conclusions through a GitHub repository, providing a clear and concise README file to guide users through the project.
 
-**Repository Contents**
+## Repository Contents
 
 dataset: This directory contains the dataset used for analysis. It includes the necessary files in a structured format.
 
@@ -49,6 +49,6 @@ visualizations: This directory contains visual representations of the analysis r
 
 README.md: This file provides an overview of the project, its purpose, the dataset used, and the analysis procedure.
 
-**Acknowledgments**
+## Acknowledgments
 
 I would like to express our gratitude to the Government of India for providing the open access data on crimes against women. The analysis and findings presented in this project are based on this valuable dataset, which contributes to our understanding of this critical societal issue.
